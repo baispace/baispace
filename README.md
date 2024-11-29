@@ -6,7 +6,7 @@
   
 - 🔭 Here we share knowledge related to big data as well as life lessons.
 
-✨ Welcome to my blog. ✨ [let’s dive in!](https://blog.baispace.cn)
+- ⚡ ✨ Welcome to my blog. ✨ [let’s dive in!](https://blog.baispace.cn)
 
 
 
