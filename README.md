@@ -1,9 +1,10 @@
-## Hi there 👋 I'm Bai He (白贺BaiHe) and I'm happy to have your attention.
+## Hi there 👋 I'm Bai He (白贺BaiHe)
 
-
-Data Products, Strategy Products , Data R&D, Management, Blogger
-
-Here we share knowledge related to big data as well as life lessons.
+- 😄 I'm happy to have your attention.
+  
+- 🌱 Data Products, Strategy Products , Data R&D, Management, Blogger
+  
+- 🔭 Here we share knowledge related to big data as well as life lessons.
 
 ✨ Welcome to my blog. ✨ [let’s dive in!](#blog.baispace.cn)
 
